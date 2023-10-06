@@ -149,6 +149,10 @@ img {
         width: 100%;
     }
 
+    .col {
+        padding: 1rem 0rem;
+    }
+
     .why-us {
         background-color: black;
         margin-bottom: 0;
@@ -164,10 +168,14 @@ img {
 
     .steps {
         margin: 0;
+        padding: 0;
     }
 
-    .text-center {
-        padding-top: 3rem;
+    .container {
+        padding: 3rem 0;
+        width: 80%;
     }
+
+    
 
  }
